@@ -89,3 +89,10 @@ Combining collaborative and content-based features overcomes limitations of both
 2. Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+
+## Dataset License Notice
+This project uses a subset of the MovieLens dataset.  
+The dataset is provided by the GroupLens Research Group at the University of Minnesota  
+and is licensed for research and educational purposes.  
+This project is non-commercial and does not imply endorsement by GroupLens or the University of Minnesota.
+
