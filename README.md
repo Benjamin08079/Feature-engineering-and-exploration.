@@ -6,12 +6,10 @@ Feature engineering and exploratory data analysis (EDA) using a real-world subse
 This project performs **data preparation**, **feature engineering**, and **exploratory data analysis (EDA)** on a real-world portion of the **MovieLens dataset**, a widely used dataset for research in recommendation systems.  
 The goal is to transform raw data into meaningful features, explore patterns in movie and user behavior, and lay the foundation for future recommendation system development.
 
-## Dataset Information
-
-This project uses a **subset** of the MovieLens dataset, which contains user ratings, movie metadata, tag applications, and external links.
-
-The dataset is maintained by the **GroupLens Research Group**, University of Minnesota.
-
+## Dataset Acknowledgment
+This project uses a subset of the MovieLens dataset for educational and research purposes. 
+Original data © GroupLens Research, University of Minnesota.
+Dataset: https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 ### Citation
 If using this dataset in academic or research work, please cite:
 
@@ -20,6 +18,8 @@ If using this dataset in academic or research work, please cite:
 > ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19.  
 > https://doi.org/10.1145/2827872
 
+## Tools & Technologies
+Python, Pandas, Matplotlib, etc.
 
 ## Project Workflow
 
