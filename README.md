@@ -9,7 +9,9 @@ The goal is to transform raw data into meaningful features, explore patterns in 
 ## Dataset Acknowledgment
 This project uses a subset of the MovieLens dataset for educational and research purposes. 
 Original data © GroupLens Research, University of Minnesota.
+
 Dataset: https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+
 ### Citation
 If using this dataset in academic or research work, please cite:
 
